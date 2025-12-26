@@ -90,9 +90,7 @@ Robust exception handling ensures reliability at every stage.
 ---
 
 ## ▶️ How to Run the Application
-```bash
-streamlit run app.py
 
-### Install dependencies
+### 1️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
