@@ -102,3 +102,10 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
+
+## 🌐 Live Demo
+
+The application is successfully deployed on **Streamlit Community Cloud**.
+
+🔗 **Live Application:**  
+https://agentic-chatbot-uskvtxunnxnx3qqyjpqsds.streamlit.app/
