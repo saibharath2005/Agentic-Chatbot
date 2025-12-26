@@ -89,12 +89,16 @@ Robust exception handling ensures reliability at every stage.
 
 ---
 
-## ▶️ How to Run the Application
+## 🚀 Running the Application
 
-### 1️⃣ Install Dependencies
-```bash
+1. Install requirements:
+
+```
 pip install -r requirements.txt
+```
 
-### 2️⃣ Run the Application
-```bash
+2. Run Streamlit app:
+
+```
 streamlit run app.py
+```
